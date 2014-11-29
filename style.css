@@ -1,0 +1,4 @@
+/*Theme Name: RunTheme URI: http://www.normaspace.comDescription: A child theme of Sparkling
+Author: Norma C.
+Author URI: http://www.normaspace.comTemplate: sparkling
+Version: 1.0*/@import url("../sparkling/style.css");.btn-default, .label-default {	background-color: #9fc234;	border-color: #9fc234;	-webkit-transition: background-color .3s linear;	-moz-transition: background-color .3s linear;	-o-transition: background-color .3s linear;	transition: background-color .3s linear;}.tagcloud a {background-color: #A2A0A0;}#secondary .widget a {color: #6b6b6b;} .single .secondary-content-box {    display: none;}/* tightens padding around image captions */.wp-caption .wp-caption-text {margin: .5em 0;}.thumbnail .caption {padding: 0px;color: #333;}
